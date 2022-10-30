@@ -1,0 +1,99 @@
+*{
+    margin: 0;
+    padding: 30;
+    box-sizing: border-box;
+}
+body {
+    background-color:white;
+}
+header {
+    background: black;
+    padding: 20px;
+}
+header > h4 {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+    color: white;
+    font-weight: lighter;
+}
+header > h2 {
+    text-align: center;
+    font-family: 'Dancing Script', cursive;
+    font-size: 40px;
+    color: white;
+    font-weight: lighter;
+
+}
+.Button {
+    width: 250;
+    margin: 50px 300px;
+    background: #4267b2;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    border: 20px solid #4267b2;
+    border-radius: 10px;
+    padding: 15px 30px;
+    font-size: 50px;
+    
+}
+.camera {
+    width: 250;
+    margin: 100px 200px;
+    background: green;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    border: 20px solid green;
+    border-radius: 10px;
+    padding: 15px 30px;
+    font-size: 50px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
